@@ -22,5 +22,6 @@
   <img align="center" alt="C#-Linux" height = "60" width="60"src="https://github.com/petinfpucrs/.github/blob/60c80f61b4269e166f8dfca74baf2a434ee3d849/profile/C%23%20icon.png">
    <img align="center" alt="JavaScript-Linux" height = "60" width="60"src="https://github.com/petinfpucrs/.github/blob/60c80f61b4269e166f8dfca74baf2a434ee3d849/profile/js.png">
     <img align="center" alt="PET-HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  
+       <img align="center" alt="JavaScript-Linux" height = "60" width="60"src="https://github.com/petinfpucrs/.github/blob/60c80f61b4269e166f8dfca74baf2a434ee3d849/profile/css.png">
+
 </div>
