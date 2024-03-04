@@ -20,8 +20,9 @@
   <div style="display: inline_block"><br>
  <img align="center" alt="PET-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="C#-Linux" height = "60" width="60"src="https://github.com/petinfpucrs/.github/blob/60c80f61b4269e166f8dfca74baf2a434ee3d849/profile/C%23%20icon.png">
-   <img align="center" alt="JavaScript-Linux" height = "60" width="60"src="https://github.com/petinfpucrs/.github/blob/60c80f61b4269e166f8dfca74baf2a434ee3d849/profile/js.png">
     <img align="center" alt="PET-HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-       <img align="center" alt="JavaScript-Linux" height = "60" width="60"src="https://github.com/petinfpucrs/.github/blob/60c80f61b4269e166f8dfca74baf2a434ee3d849/profile/css.png">
+       <img align="center" alt="Csst-Linux" height = "60" width="60"src="https://camo.githubusercontent.com/0da944f181647261c840e34b20ed7e3ca44ddc150869c6ea550cf98d06c81a37/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667">
+          <img align="center" alt="JavaScript-Linux" height = "60" width="60"src="https://github.com/petinfpucrs/.github/blob/60c80f61b4269e166f8dfca74baf2a434ee3d849/profile/js.png">
+
 
 </div>
