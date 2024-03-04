@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=20&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Felisberto,+and+i+study+computer+science+at+PUCRS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
+<div align="center">
+  <img width="41%" height="195px"  src="https://github.com/petinfpucrs/.github/blob/89b524cd800bc3b87ee2d767725b777407fdb497/profile/PET_logo.png">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFelisberto&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<img align="center" alt="PET-Logo" height="60" width="60" src="https://github.com/petinfpucrs/.github/blob/89b524cd800bc3b87ee2d767725b777407fdb497/profile/PET_logo.png">
 
 <div align="center"> 
 <a href="https://www.instagram.com/felisbert0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
