@@ -16,7 +16,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9d1d9&height=120&section=footer"/>
 
 
-<h2>Linguagens que estudo</h2>
+<h2>Tecnologias estudadas</h2>
 </div>
   <div style="display: inline_block"><br>
  <img align="center" alt="PET-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
