@@ -1,29 +1,57 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9d1d9&height=120&section=header"/>
+<h2 align="left">what's up?! My name is Marcelo and I'm a computer sciences student from PUCRS 🐸</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=20&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Felisberto,+and+i+study+computer+science+at+PUCRS;Be+Welcome!+:%29)](https://git.io/typing-svg)
+###
 
 <div align="center">
-  <img width="41%" height="195px"  src="https://github.com/petinfpucrs/.github/blob/89b524cd800bc3b87ee2d767725b777407fdb497/profile/PET_logo.png" />
-  <img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFelisberto&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MFelisberto&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20GitHub%20Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MFelisberto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
+###
 
-<div align="center"> 
-  <a href="https://www.instagram.com/felisbert0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href = "mailto:cmp.1a.marcelo.felisberto@edu.pucrs.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c9d1d9&height=120&section=footer"/>
 
+###
 
-<h2>Tecnologias estudadas</h2>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
-  <div style="display: inline_block"><br>
- <img align="center" alt="PET-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="C#-Linux" height = "60" width="60"src="https://github.com/petinfpucrs/.github/blob/60c80f61b4269e166f8dfca74baf2a434ee3d849/profile/C%23%20icon.png">
-    <img align="center" alt="PET-HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-       <img align="center" alt="Csst-Linux" height = "60" width="60"src="https://camo.githubusercontent.com/0da944f181647261c840e34b20ed7e3ca44ddc150869c6ea550cf98d06c81a37/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667">
-          <img align="center" alt="JavaScript-Linux" height = "60" width="60"src="https://github.com/petinfpucrs/.github/blob/60c80f61b4269e166f8dfca74baf2a434ee3d849/profile/js.png">
 
+###
 
+<img align="right" height="200" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b76111jvs8gzwcq94uq3gy2ijt66om7epkyg04c0p7ydp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="left">
+  <img height="150" src="https://petinfpucrs.github.io/assets/img/logo_PET.png"  />
 </div>
+
+###
