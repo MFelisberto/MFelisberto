@@ -41,11 +41,11 @@
   <a href="https://www.instagram.com/felisbert0/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
 
-  <b href="https://www.linkedin.com/in/marcelo-augusto-felisberto-martins-180660219/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></b>  
+  <a href="https://www.linkedin.com/in/marcelo-augusto-felisberto-martins-180660219/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>  
 
-  <c href="mailto:marcelo.felisberto@edu.pucrs.br">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  /></c>  
+  <a href="mailto:marcelo.felisberto@edu.pucrs.br">
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  /></a>  
 </div>
 
 ###
