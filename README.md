@@ -1,61 +1,58 @@
-<h2 align="left">what's up?! My name is Marcelo and I'm a computer sciences student from PUCRS 🐸</h2>
+<h2 align="left">Hey there! 👋 I'm Marcelo, a Computer Science student at PUCRS 🐸</h2>
 
-###
+<p align="left">
+  Passionate about software development, system architecture, and game development. Currently diving into FastAPI, AWS, and game mechanics. 🚀
+</p>
 
+---
+
+## 📊 My GitHub Stats  
 <div align="left">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MFelisberto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MFelisberto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="180" alt="Most Used Languages" />
 </div>
 
-###
+---
 
+## 🛠 Tech Stack  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
 </div>
 
-###
+---
 
+## 📬 Connect with me  
 <div align="left">
   <a href="https://www.instagram.com/felisbert0/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/marcelo-augusto-felisberto-martins-180660219/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>  
-
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  
   <a href="mailto:marcelo.felisberto@edu.pucrs.br">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  /></a>  
+    <img src="https://img.shields.io/badge/Outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" />
+  </a>
 </div>
 
-###
+---
 
-<img align="right" height="200" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b76111jvs8gzwcq94uq3gy2ijt66om7epkyg04c0p7ydp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
+## 🎓 Academic Involvement  
 <div align="left">
-  <img height="150" src="https://petinfpucrs.github.io/assets/img/logo_PET.png"  />
+  <img height="100" src="https://petinfpucrs.github.io/assets/img/logo_PET.png" />
 </div>
 
-###
+---
+
+🔥 Let's build something awesome together! 🚀
