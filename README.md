@@ -1,9 +1,5 @@
 <h2 align="left">Hey there! 👋 I'm Marcelo, a Computer Science student at PUCRS 🐸</h2>
 
-<p align="left">
-  Passionate about software development, system architecture, and game development. Currently diving into FastAPI, AWS, and game mechanics. 🚀
-</p>
-
 ---
 
 ## 📊 My GitHub Stats  
@@ -11,15 +7,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MFelisberto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="180" alt="Most Used Languages" />
 </div>
 
----
-
 ## 🛠 Tech Stack  
+
+### 🚀 Programming Languages  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go" />
+</div>
+
+### 🛠 Tools
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot" />
@@ -47,12 +47,7 @@
 </div>
 
 ---
-
-## 🎓 Academic Involvement  
 <div align="left">
   <img height="100" src="https://petinfpucrs.github.io/assets/img/logo_PET.png" />
 </div>
-
----
-
 🔥 Let's build something awesome together! 🚀
