@@ -51,7 +51,4 @@
 </div>
 
 ---
-<div align="left">
-  <img height="100" src="https://petinfpucrs.github.io/assets/img/logo_PET.png" />
-</div>
 🔥 Let's build something awesome together! 🚀
