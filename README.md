@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! 👋 I'm Marcelo, a Computer Science student at PUCRS 🐸</h2>
+<h2 align="left">Hey there! 👋 I'm Marcelo, a former Computer Science from PUCRS🦊</h2>
 
 ---
 
