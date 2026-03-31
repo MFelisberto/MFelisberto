@@ -1,11 +1,12 @@
+<!-- Title -->
 <h2 align="center">Former Computer Science @ PUCRS 🦊</h2> 
 <p align="center"><em>Developer & AI Engineer</em></p>
 
+<!-- Gif -->
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
 <div align="center">
   <a href="https://www.instagram.com/felisbert0/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="35" />
@@ -49,6 +50,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
 </div>
-
----
-🔥 Let's build something awesome together! 🚀
